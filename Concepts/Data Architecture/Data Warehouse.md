@@ -8,9 +8,7 @@ A data warehouse is a central repository for data which will be used for reporti
 
 ## Data Warehouse Advantages
 
-- Consolidate data from multiple data sources into one "source of truth"
-- Optimized for read access which makes generating reports faster than using a source transaction system for reporting
-- Store and analyze large amounts of historical data
+- Gathers data from a diffferent 
 
 ## Data Warehouse Disadvantages
 
@@ -35,6 +33,8 @@ Data warehouses are made for complex queries on large datasets. You should consi
 ![[Learning Resources#Data Warehousing Learning Resources]]
 
 %% wiki footer: Please don't edit anything below this line %%
+
+
 
 ## This note in GitHub
 
