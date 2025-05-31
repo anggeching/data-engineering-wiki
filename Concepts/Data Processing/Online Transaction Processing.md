@@ -10,6 +10,8 @@ The management of transactional data which occurs in the day-to-day operation of
 
 Transactional data is data that tracks the activities of an organization and are typically business transactions such as payments received from customers, payments made to vendors, orders made, etc. These transactional events typically contain a timestamp of when it occurred and some numeric values or references to other data.
 
+* Optimized for processing a high volume of simple transactions. It is used in scenarios where speed and efficiency in handling database transactions (like insertions, updates, deletions) are critical, such as in cash terminals or reservation systems. OLTP systems are foundational for operational processes within businesses, ensuring data integrity and quick response times for transactional queries.
+
 ## Online Transaction Processing Examples
 
 - ATM machines and online banking applications

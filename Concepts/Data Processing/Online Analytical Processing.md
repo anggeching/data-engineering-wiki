@@ -6,6 +6,12 @@ publish: true
 
 [Online analytical processing](https://en.wikipedia.org/wiki/Online_analytical_processing) is the term used for a [[Data Modeling|data model]] that aggregates data in a way that makes it easier and faster to query across multiple dimensions. For this reason, OLAP systems are mostly optimized for reading the data and are used primarily for reporting and analysis.
 
+* **OLAP** is designed for multidimensional analysis of large volumes of data, enabling fast processing for complex queries. It uses a data cube or hypercube for storing data in multiple dimensions, facilitating "slicing and dicing" of data for in-depth analysis. This is crucial for data scientists and analysts who work with data warehouses or data marts to make informed business decisions.
+
+## Example 
+Consider an OLAP system used by a credit card company to analyze purchases by year, customer age, location, and time of day. This system, unlike an OLTP system, is not designed for real-time transaction processing but for complex analysis to support business decisions.
+
+
 %% wiki footer: Please don't edit anything below this line %%
 
 ## This note in GitHub

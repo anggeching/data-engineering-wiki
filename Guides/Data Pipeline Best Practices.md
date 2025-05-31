@@ -1,12 +1,34 @@
 ---
-Aliases: [ETL Best Practices, ELT Best Practices]
-Tags: [seedling]
+aliases:
+  - ETL Best Practices
+  - ELT Best Practices
+tags:
+  - seedling
 publish: true
 ---
 
 ## Overview
 
 A best practice guide for data pipelines compiled from data engineers in the community. Follow this guide to help you build more robust, scalable, and more performant data pipelines. These best practices are in no particular order but we've done our best to categorize them.
+
+
+## Data pipelines (Datawarehouse concepts)
+How data get from point A to point B
+
+* ETL and ELT - the goal of both method is to end up to cleansed data that we can use on the data warehouse, but the order they take is different.
+* ETL
+
+# Data Cleaning 
+1. Data format cleaning before putting on data warehouse
+2. Address Parcing, deviding street address into its component
+		![[Pasted image 20250531113355.png]]
+3. Data validation 
+	1. valid Data type check
+	2. valid value check
+4. Duplication elimination
+5. Data Governance - a set of organizational policies processes to help keep data clean.
+
+
 
 ## General Best Practices
 

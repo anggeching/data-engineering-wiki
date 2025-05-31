@@ -15,6 +15,8 @@ publish: true
 - [[Lambda Architecture]]
 - [[Kappa Architecture]]
 
+![[Pasted image 20250530180636.png]]
+
 ## Data Architecture Examples
 
 - [AWS Reference Architecture Examples](https://aws.amazon.com/architecture/reference-architecture-diagrams/)
