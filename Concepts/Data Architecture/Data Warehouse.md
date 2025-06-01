@@ -5,7 +5,7 @@ publish: true
 ---
 ![[Pasted image 20250530180236.png]]
 
-A data warehouse is a central repository for data which will be used for reporting and analytics. Data comes into the data warehouse from [[Online Transaction Processing|transactional systems]], relational databases, or [[Data Lake|other sources]] usually on a regular cadence. Business analysts, data engineers, data scientists, and decision makers then access the data through [[Business Intelligence|business intelligence]] tools, [[SQL]] clients, and other analytics applications. Because the primary use cases for a data warehouse revolve around analytics, they typically use an [[Online Analytical Processing|OLAP]] technology for performance.
+A data warehouse is a central repository for data which will be used for reporting and analytics. Data comes into the data warehouse from [[Online Transaction Processing|transactional systems]], relational databases, or [[Data Lake|other sources]] usually on a regular cadence. Business analysts, data engineers, data scientists, and decision makers then access the data through [[Business Intelligence|business intelligence]] tools, [[data-engineering-wiki/Tools/Programming Languages/SQL]] clients, and other analytics applications. Because the primary use cases for a data warehouse revolve around analytics, they typically use an [[Online Analytical Processing|OLAP]] technology for performance.
 
 Purpose
 * Reporting and Analysis of the organizational process.

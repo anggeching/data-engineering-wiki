@@ -6,7 +6,7 @@ publish: true
 
 ## Overview
 
-This guide is intended to be a general [[SQL]] reference for data engineers. It is not specific to any particular [[SQL#[SQL Variants](http://troels.arvin.dk/db/rdbms/)|variant of SQL]]. It also does not cover every concept or feature of SQL - only the most important or commonly used ones in data engineering.
+This guide is intended to be a general [[data-engineering-wiki/Tools/Programming Languages/SQL]] reference for data engineers. It is not specific to any particular [[data-engineering-wiki/Tools/Programming Languages/SQL#[SQL Variants](http://troels.arvin.dk/db/rdbms/)|variant of SQL]]. It also does not cover every concept or feature of SQL - only the most important or commonly used ones in data engineering.
 
 > [!info]- ### SQL Learning Resources
 > ![[Learning Resources#SQL Learning Resources]]
@@ -276,7 +276,7 @@ Window functions perform calculations on a set of rows that are related together
 
 ### Correlated Subqueries
 
-A [[SQL]] query nested inside another query that uses the values from the outer/parent query. Because the correlated subquery can be evaluated once for each row in the outer query, it can be slow.
+A [[data-engineering-wiki/Tools/Programming Languages/SQL]] query nested inside another query that uses the values from the outer/parent query. Because the correlated subquery can be evaluated once for each row in the outer query, it can be slow.
 
 Example:
 ```sql

@@ -12,7 +12,7 @@ publish: true
 
 - **Database Administrator:** Focuses on making sure the database and infrastructure is available and secure (i.e. backing up data, user management, server usage). They do not typically build within the database itself.
 
-- **Data Analyst:** Uses data for basic to medium complexity analysis and builds reports and dashboards. This role will typically require a good grasp of [[SQL]] and reporting tools but relies on an engineer for the data.
+- **Data Analyst:** Uses data for basic to medium complexity analysis and builds reports and dashboards. This role will typically require a good grasp of [[data-engineering-wiki/Tools/Programming Languages/SQL]] and reporting tools but relies on an engineer for the data.
 
 - **Data Scientist:** Uses data for more in-depth analysis and visualizations. Typically the work is more research based and sometimes one will work on a product like a machine learning model.
 

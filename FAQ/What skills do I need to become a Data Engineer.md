@@ -18,7 +18,7 @@ Despite the junior title, **data engineering is typically not an entry-level job
 
 **Minimum skills required:**
 
-- [[SQL]] (Beginner)
+- [[data-engineering-wiki/Tools/Programming Languages/SQL]] (Beginner)
 - [[Data Modeling]] (Beginner)
 - [[Relational Database]] (Beginner)
 - Soft skills (Beginner)
@@ -31,7 +31,7 @@ Despite the junior title, **data engineering is typically not an entry-level job
 
 **Minimum skills required:**
 
-- [[SQL]] (Intermediate)
+- [[data-engineering-wiki/Tools/Programming Languages/SQL]] (Intermediate)
 - [[Data Modeling]] (Intermediate)
 - Scripting language ([[Python]], [[Java]], or [[Scala]]) (Intermediate)
 - [[Indexing]] & Query Optimization (Intermediate)
@@ -54,7 +54,7 @@ Despite the junior title, **data engineering is typically not an entry-level job
 **Minimum skills required:**
 
 - Soft skills (Intermediate/Advanced)
-- [[SQL]] (Advanced)
+- [[data-engineering-wiki/Tools/Programming Languages/SQL]] (Advanced)
 - [[Data Modeling]] (Advanced)
 - Scripting language ([[Python]], [[Java]], or [[Scala]]) (Advanced)
 - [[Indexing]] & Query Optimization (Advanced)
